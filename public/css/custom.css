@@ -1,0 +1,14 @@
+.cookie-consent {
+    text-align: center;
+    background-color: rgb(34, 34, 34);
+    color: rgb(255, 185, 13);
+    padding-bottom: 2%;
+}
+.cookie-consent__agree {
+    background-color: #feb90e;
+    border-radius: 128px !important;
+    font-size: 10px;
+    padding: 20px;
+    text-transform: Uppercase !important;
+    letter-spacing: 1.8px;
+}
