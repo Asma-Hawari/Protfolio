@@ -116,7 +116,7 @@
 							  </div>
 							
 						  </div>
-						  <a href="#0" class="main-btn btn-3 mt-15px">Download CV</a>
+						  <a href="Asma's Resume.pdf" class="main-btn btn-3 mt-15px">Download CV</a>
 					  </div>
 				  </div>
 			  </div>
